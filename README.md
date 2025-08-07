@@ -17,7 +17,7 @@ https://public.tableau.com/views/HRATTRITIONDASHBOARD_17541694513440/HRAnalytics
 Employee attrition remains one of the most costly and disruptive issues organisations face. Understanding why employees leave and identifying those most at risk are essential for developing effective retention strategies. This project simulates a real-world scenario where HR data is transformed into a visual narrative, highlighting problem areas and uncovering patterns that might otherwise go unnoticed in tabular data.
 
 # Deliverables
-The project produces a cleaned and structured HR dataset with employee-level details. Additionally, a fully functional HR Attrition Dashboard was developed using Microsoft Excel for initial data cleaning, aggregation, dashboard creation, and interactive visualisations.
+The project produces a cleaned and structured HR dataset with employee-level details. Additionally, a fully functional HR Attrition Dashboard was developed using Microsoft Excel for initial data cleaning, aggregation, and Tableau Public for dashboard creation and interactive visualisations.
 
 # Conclusions
 This HR Attrition Dashboard illustrates the value of visual analytics in workforce management. It enables HR stakeholders to identify attrition patterns, examine them alongside job satisfaction and demographic data, and make informed policy adjustments. The dashboard is modular, scalable, and adaptable to organisational datasets, making it a valuable addition to any HR analytics toolkit.
