@@ -21,5 +21,3 @@ The project produces a cleaned and structured HR dataset with employee-level det
 
 # Conclusions
 This HR Attrition Dashboard illustrates the value of visual analytics in workforce management. It enables HR stakeholders to identify attrition patterns, examine them alongside job satisfaction and demographic data, and make informed policy adjustments. The dashboard is modular, scalable, and adaptable to organisational datasets, making it a valuable addition to any HR analytics toolkit.
-HR-Attrition-Dashboard-Project
-This project investigates employee attrition patterns and dynamics through a comprehensive HR dashboard. By visualising key metrics such as attrition rate, department and job role distribution, survey scores, and demographic profiles, the dashboard allows stakeholders to gain insights into workforce trends and make informed decisions.
