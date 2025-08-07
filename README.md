@@ -2,7 +2,7 @@
 
 
 # Introduction
-This project introduces a data-driven HR Attrition Dashboard designed to deliver actionable insights into employee turnover patterns within an organisation. By visualising key metrics such as attrition rates, demographics, job roles, departmental data, and employee feedback, the dashboard allows HR professionals and business leaders to make evidence-based decisions for workforce planning and employee retention.
+This project introduces a data-driven HR Attrition Dashboard designed to deliver actionable insights into employee turnover patterns within an organisation. By visualising key metrics such as attrition rates, demographics, job roles, departmental data, and employee feedback. The dashboard allows HR professionals and business leaders to make evidence-based decisions for workforce planning and employee retention.
 The main goal of this project is to create an interactive visualisation tool that helps understand and address the factors behind employee attrition. Its specific objectives include:
 • Analyse attrition trends across departments and job roles
 • Investigate demographic influences like age and gender on attrition
