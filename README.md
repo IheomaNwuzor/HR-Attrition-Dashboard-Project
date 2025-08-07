@@ -10,7 +10,7 @@ The main goal of this project is to create an interactive visualisation tool tha
 • Present recent cases of attrition with key influencing variables
 • Offer a strategic overview to improve HR interventions
 
-# #Project link
+# Project link
 https://public.tableau.com/views/HRATTRITIONDASHBOARD_17541694513440/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 # Rationale
