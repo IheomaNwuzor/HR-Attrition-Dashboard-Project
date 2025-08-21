@@ -1,6 +1,7 @@
 <img width="940" height="448" alt="image" src="https://github.com/user-attachments/assets/2e6b4178-8fff-4398-aa03-8776686edcbf" />
 
-https://public.tableau.com/app/profile/iheoma.nwuzor/viz/HRATTRITIONDASHBOARD_17541694513440/HRAnalyticsDashboard
+Link: https://public.tableau.com/app/profile/iheoma.nwuzor/viz/HRATTRITIONDASHBOARD_17541694513440/HRAnalyticsDashboard
+
 # Optimising Employee Retention and Performance at Talent-Pulse Solutions Inc
 Problem Statement for the Talent-Pulse Solutions Inc. Employee Retention  
 
