@@ -4,11 +4,11 @@
 # Optimising Employee Retention and Performance at Talent-Pulse Solutions Inc
 Problem Statement for the Talent-Pulse Solutions Inc. Employee Retention  
 
-Background 
+## Background 
 
 Talent-Pulse Solutions Inc. is a forward-thinking organisation dedicated to empowering businesses through strategic workforce management. As a leader in talent optimisation, the company prides itself on fostering an environment where employees can thrive. However, recent challenges with employee retention and workforce engagement have highlighted the need for actionable insights. 
 
-Current Challenges
+## Current Challenges
 
 1. Business Challenge
 •	High Attrition Rates: The organisation is experiencing above-normal employee turnover, which can lead to increased recruitment and training costs, loss of institutional knowledge, and disruption of workflows.
@@ -23,16 +23,18 @@ Current Challenges
 •	Survey Data Limitations: Employee surveys have shown low scores, but the organisation lacks analytical tools to connect these results to attrition outcomes.
 •	Reactive Instead of Proactive: Current analysis focuses on historical attrition rather than predictive insights, preventing HR teams from intervening early with at-risk employees.
 
-Aim
+## Aim
 This project aims to leverage data analysis and visualisation techniques to gain actionable insights into employee attrition, enabling HR teams to understand and uncover key trends, underlying patterns, optimise employee satisfaction, and make strategic, evidence-based decisions to improve retention and enhance overall organisational performance.
 
-Objectives
+## Objectives
+
 •	To identify key trends and factors contributing to employee attrition. 
 •	Analyse workforce demographics by department, gender, age group, and education level to understand patterns. 
 •	Track attrition trends over time and compare survey scores with employee turnover rates. 
 •	Build a comprehensive dashboard to enable HR teams to make data-driven decisions
 
-Analytical Questions
+## Analytical Questions
+
 1. Attrition Rate
 •	What is the overall attrition rate, and how does it compare across departments?
 2. Total Attrition
@@ -54,5 +56,6 @@ Analytical Questions
 •	Who are the most recent employees to leave the organisation?
 •	What patterns emerge when analysing this subset?
 
-Conclusions
+## Conclusions
+
 This HR Attrition Dashboard illustrates the value of visual analytics in workforce management. It enables HR stakeholders to identify attrition patterns, examine them alongside job satisfaction and demographic data, and make informed policy adjustments. The dashboard is modular, scalable, and adaptable to organisational datasets, making it a valuable addition to any HR analytics toolkit.
