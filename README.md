@@ -57,6 +57,31 @@ This project aims to leverage data analysis and visualisation techniques to gain
 •	Who are the most recent employees to leave the organisation?
 •	What patterns emerge when analysing this subset?
 
+## Detailed Steps 
+
+•	Data Sourcing and Preparation:
+
+o	Dataset cleaning and formatting.
+
+o	Joining tables on Freelancer_ID and job earnings.
+
+## Visual Representation of Data Moved to staging
+
+![Employee attrition joining](https://github.com/user-attachments/assets/bb0986c7-b1b0-418d-ba39-000aa209421f)
+
+
+o	Proper data assignment (numerical, categorical, date).
+
+•	Creating calculated Fields for KPIs, Metrics & visualisations
+
+•	Visualisation Creation
+
+•	Dashboard Development
+
+•	Data analysis and Forecasting
+
+•	Recommendations
+
 ## Conclusions
 
 This HR Attrition Dashboard illustrates the value of visual analytics in workforce management. It enables HR stakeholders to identify attrition patterns, examine them alongside job satisfaction and demographic data, and make informed policy adjustments. The dashboard is modular, scalable, and adaptable to organisational datasets, making it a valuable addition to any HR analytics toolkit.
