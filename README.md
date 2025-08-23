@@ -82,6 +82,23 @@ o	Proper data assignment (numerical, categorical, date).
 
 •	Recommendations
 
+# Project includes
+Overview: A summary of key performance indicators (KPIs), such as attrition rates, total attrition, total employees.
+Department: Visual representations of department, showing the total number of employees with their retention and attrition counts.
+Gender: Donought charts illustrating employees with their gender.
+Job role analysis: charts showing different job roles with their total retention count.
+Age group: Chat showing different age groups with their toal retention counts.
+Educational field: Chart showing different educational field with their total attrition and retention counts.
+Time series analysis: Trends on years in current role, helping users to identity current roles with their attrition count.
+Survay score: Heat map showing the survay score for different job roles helping the organisation to access the job satisfaction and attrition count.
+Filtering and Interactivity: Interactive elements allowing users to filter data based on specific criteria and perform ad-hoc analysis.
+
+## Technologies used
+
+Excel: For data extraction and cleaning
+
+Tableau: For data extraction, transformation, table joing, KPIs, vusualization, dashboard creation and data analysis.
+
 ## Conclusions
 
 This HR Attrition Dashboard illustrates the value of visual analytics in workforce management. It enables HR stakeholders to identify attrition patterns, examine them alongside job satisfaction and demographic data, and make informed policy adjustments. The dashboard is modular, scalable, and adaptable to organisational datasets, making it a valuable addition to any HR analytics toolkit.
