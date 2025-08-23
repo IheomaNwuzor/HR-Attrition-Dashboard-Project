@@ -84,13 +84,21 @@ o	Proper data assignment (numerical, categorical, date).
 
 # Project includes
 Overview: A summary of key performance indicators (KPIs), such as attrition rates, total attrition, total employees.
+
 Department: Visual representations of department, showing the total number of employees with their retention and attrition counts.
+
 Gender: Donought charts illustrating employees with their gender.
+
 Job role analysis: charts showing different job roles with their total retention count.
+
 Age group: Chat showing different age groups with their toal retention counts.
+
 Educational field: Chart showing different educational field with their total attrition and retention counts.
+
 Time series analysis: Trends on years in current role, helping users to identity current roles with their attrition count.
+
 Survay score: Heat map showing the survay score for different job roles helping the organisation to access the job satisfaction and attrition count.
+
 Filtering and Interactivity: Interactive elements allowing users to filter data based on specific criteria and perform ad-hoc analysis.
 
 ## Technologies used
