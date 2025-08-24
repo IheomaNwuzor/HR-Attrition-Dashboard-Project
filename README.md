@@ -114,4 +114,4 @@ This HR Attrition Dashboard illustrates the value of visual analytics in workfor
 # Author
 @Iheoma_Nwuzor
 # Contact me
-If you would like to discuss any job position, questions, suggestions, connection or just want to say hello, you can reach out to me via [Email Me](mailto:iheomanwuzor@gmail.com) or [LinkedIn](https://www.linkedin.com/in/iheoma-nwuzor)
+If you would like to discuss any job position, questions, suggestions, or just want to connect and say hello, you can reach out to me via [Email Me](mailto:iheomanwuzor@gmail.com) or [LinkedIn](https://www.linkedin.com/in/iheoma-nwuzor)
